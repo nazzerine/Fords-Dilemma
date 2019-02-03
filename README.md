@@ -1,3 +1,5 @@
+Basic Algorithms - Spring 2018
+
 Prompt:
 
 While Arthur is spending time trying to get back to Earth in different dimensions, Ford has been thinking of crashing the different planets made by the Magrathean staff. Ford is too much of a frood to not have fun visiting any of them in the name of research for the guide.
